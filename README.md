@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/screenshots/banner.png" alt="CM2 Website Banner" width="100%">
+  <img src="assets/screenshots/banner.png.png" alt="CM2 Website Banner" width="100%">
 </p>
 
 <br>
