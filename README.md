@@ -160,6 +160,27 @@
 ![صورة](assets/screenshots/18.png)
 
 ![صورة](assets/screenshots/19.png)
+<h2 align="right">⚙️ صور لوحة التحكم</h2>
+
+<p align="center">
+  <img src="assets/screenshots/20.png" width="90%"><br><br>
+
+  <img src="assets/screenshots/21.png" width="90%"><br><br>
+
+  <img src="assets/screenshots/22.png" width="90%"><br><br>
+
+  <img src="assets/screenshots/23.png" width="90%"><br><br>
+
+  <img src="assets/screenshots/24.png" width="90%"><br><br>
+
+  <img src="assets/screenshots/25.png" width="90%"><br><br>
+
+  <img src="assets/screenshots/26.png" width="90%"><br><br>
+
+  <img src="assets/screenshots/27.png" width="90%"><br><br>
+
+  <img src="assets/screenshots/28.png" width="90%">
+</p>
 
 ---
 
