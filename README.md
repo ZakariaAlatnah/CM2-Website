@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="assets/screenshots/banner.png" alt="CM2 Website Banner" width="100%">
+</p>
+
+<br>
+
 # 🌐 موقع شركة سنتيمتر مربع (CM2)
 
 > موقع إلكتروني تعريفي احترافي تم تصميمه وتطويره لشركة سنتيمتر مربع باستخدام Laravel وPHP وMySQL.
