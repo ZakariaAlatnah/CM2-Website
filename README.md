@@ -1,14 +1,42 @@
-# CM2 Website
+# 🌐 موقع شركة سنتيمتر مربع (CM2)
 
-## Overview
-
-CM2 Website is a modern corporate website developed for CM2 Company to showcase the company's services, projects, and digital solutions.
-
-The website was designed with a clean UI, responsive layout, and an easy-to-manage administration panel.
+> موقع إلكتروني تعريفي احترافي تم تصميمه وتطويره لشركة سنتيمتر مربع باستخدام Laravel وPHP وMySQL.
 
 ---
 
-## Technologies
+# 📖 نبذة عن المشروع
+
+يهدف هذا المشروع إلى إنشاء موقع إلكتروني حديث يعكس هوية شركة **سنتيمتر مربع (CM2)** ويعرض خدماتها ومشاريعها بطريقة احترافية، مع لوحة تحكم متكاملة لإدارة محتوى الموقع بكل سهولة.
+
+تم تطوير الموقع ليكون سريعًا، متجاوبًا مع جميع الأجهزة، وسهل الإدارة والتطوير مستقبلًا.
+
+---
+
+# 🚀 أهم المميزات
+
+✅ تصميم احترافي ومتجاوب مع جميع الأجهزة.
+
+✅ لوحة تحكم متكاملة.
+
+✅ إدارة الخدمات.
+
+✅ إدارة المشاريع.
+
+✅ صفحة تفاصيل الخدمات.
+
+✅ صفحة تفاصيل المشاريع.
+
+✅ صفحة تواصل.
+
+✅ تحسين محركات البحث (SEO).
+
+✅ سرعة في الأداء.
+
+✅ واجهة مستخدم حديثة.
+
+---
+
+# 🛠️ التقنيات المستخدمة
 
 - Laravel
 - PHP
@@ -21,32 +49,114 @@ The website was designed with a clean UI, responsive layout, and an easy-to-mana
 
 ---
 
-## Features
+# 👨‍💻 دوري في المشروع
 
-- Corporate Company Website
-- Responsive Design
-- Services Management
-- Projects Showcase
-- Contact Forms
-- SEO Friendly
-- Modern User Interface
-- Admin Dashboard
+قمت بتنفيذ المشروع بالكامل، ويشمل ذلك:
 
----
-
-## My Role
-
-- UI/UX Design
-- Database Design
-- Backend Development
-- Frontend Development
-- Dashboard Development
-- Performance Optimization
+- تحليل متطلبات المشروع.
+- تصميم قاعدة البيانات.
+- تطوير الواجهة الأمامية.
+- تطوير الواجهة الخلفية.
+- إنشاء لوحة التحكم.
+- تطوير نظام إدارة الخدمات.
+- تطوير نظام إدارة المشاريع.
+- تحسين الأداء.
+- اختبار النظام.
 
 ---
 
-## Project Preview
+# 🖼️ معرض الصور
 
-Project screenshots are available below.
+## الصفحة الرئيسية
 
-> Source code is private because the project belongs to the client.
+![الرئيسية](assets/screenshots/1.png)
+
+---
+
+## نبذة عن الشركة
+
+![نبذة](assets/screenshots/2.png)
+
+---
+
+## الخدمات
+
+![الخدمات](assets/screenshots/3.png)
+
+---
+
+## تفاصيل الخدمة
+
+![تفاصيل الخدمة](assets/screenshots/4.png)
+
+---
+
+## المشاريع
+
+![المشاريع](assets/screenshots/5.png)
+
+---
+
+## تفاصيل المشروع
+
+![تفاصيل المشروع](assets/screenshots/6.png)
+
+---
+
+## صفحة التواصل
+
+![التواصل](assets/screenshots/7.png)
+
+---
+
+## لوحة التحكم
+
+![لوحة التحكم](assets/screenshots/8.png)
+
+---
+
+## إدارة المحتوى
+
+![إدارة المحتوى](assets/screenshots/9.png)
+
+---
+
+## إدارة الخدمات
+
+![إدارة الخدمات](assets/screenshots/10.png)
+
+---
+
+## إدارة المشاريع
+
+![إدارة المشاريع](assets/screenshots/11.png)
+
+---
+
+## إعدادات الموقع
+
+![الإعدادات](assets/screenshots/12.png)
+
+---
+
+## صور إضافية
+
+![صورة](assets/screenshots/13.png)
+
+![صورة](assets/screenshots/14.png)
+
+![صورة](assets/screenshots/15.png)
+
+![صورة](assets/screenshots/16.png)
+
+![صورة](assets/screenshots/17.png)
+
+![صورة](assets/screenshots/18.png)
+
+![صورة](assets/screenshots/19.png)
+
+---
+
+# 🔒 ملاحظة
+
+الكود المصدري غير متاح للعامة، لأن المشروع تم تطويره لصالح شركة، وتم نشر هذا المستودع لعرض التصميم، والوظائف، والمهارات التقنية مع الحفاظ على سرية كود العميل.
